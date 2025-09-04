@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "titulo": "Introducción a APIs REST",
+    "autor": "Juan Pérez",
+    "genero": "educación",
+    "anio": 2025,
+    "fechaCreacion": "2024-01-15T10:30:00.000Z",
+    "fechaModificacion": "2024-01-15T10:30:00.000Z",
+    "fuente": "local"
+  },
+  {
+    "id": 2,
+    "titulo": "Programación Web Moderna",
+    "autor": "María García",
+    "genero": "tecnología",
+    "anio": 2024,
+    "fechaCreacion": "2024-01-16T14:20:00.000Z",
+    "fechaModificacion": "2024-01-16T14:20:00.000Z",
+    "fuente": "local"
+  },
+  {
+    "id": 3,
+    "titulo": "El Arte de la Programación",
+    "autor": "Carlos Rodríguez",
+    "genero": "tecnología",
+    "anio": 2023,
+    "fechaCreacion": "2024-01-17T09:15:00.000Z",
+    "fechaModificacion": "2024-01-17T09:15:00.000Z",
+    "fuente": "local"
+  },
+  {
+    "id": 4,
+    "titulo": "Historia de la Computación",
+    "autor": "Ana López",
+    "genero": "historia",
+    "anio": 2024,
+    "fechaCreacion": "2024-01-18T16:45:00.000Z",
+    "fechaModificacion": "2024-01-18T16:45:00.000Z",
+    "fuente": "local"
+  },
+  {
+    "id": 5,
+    "titulo": "JavaScript Avanzado",
+    "autor": "Luis Martínez",
+    "genero": "programación",
+    "anio": 2025,
+    "fechaCreacion": "2024-01-19T11:30:00.000Z",
+    "fechaModificacion": "2024-01-19T11:30:00.000Z",
+    "fuente": "local"
+  }
+]
