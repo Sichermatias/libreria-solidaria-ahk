@@ -2,7 +2,7 @@
 # python -m pip install fastapi uvicorn requests
 
 # Para iniciar nuestro servidor: 
-# python -m uvicorn main:app --reload
+# python -m uvicorn app.main:app --reload
 
 # https://requests.readthedocs.io/en/latest/user/quickstart/#
 # https://fastapi.tiangolo.com/
